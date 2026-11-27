@@ -1,0 +1,1 @@
+var e={notice:{translation:`This is a translation. The English version prevails until a legal review is completed.`,readEnglish:`Read the English version`,readingOriginal:`You are reading the original English version.`,backTo:`Back to {{language}}`}};export{e as default};

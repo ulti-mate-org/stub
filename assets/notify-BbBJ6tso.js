@@ -1,0 +1,1 @@
+var e={status:{working:`In corso…`,done:`Fatto.`}};export{e as default};

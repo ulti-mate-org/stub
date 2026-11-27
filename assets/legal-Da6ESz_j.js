@@ -1,0 +1,1 @@
+var e={notice:{translation:`Questa è una traduzione. Fa fede la versione inglese finché non sarà completata una revisione legale.`,readEnglish:`Leggi la versione inglese`,readingOriginal:`Stai leggendo la versione originale in inglese.`,backTo:`Torna a {{language}}`}};export{e as default};
